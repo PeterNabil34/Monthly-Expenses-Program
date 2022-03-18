@@ -1,0 +1,2 @@
+D:\git\Monthly_Expenses_Program\Monthly_Expenses\x64\Debug\Monthly_Expenses.exe
+D:\git\Monthly_Expenses_Program\Monthly_Expenses\x64\Debug\Monthly_Expenses.pdb

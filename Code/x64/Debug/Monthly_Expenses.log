@@ -1,0 +1,3 @@
+﻿  Monthly_Expenses.cpp
+D:\git\Monthly_Expenses_Program\Monthly_Expenses\functions.cpp(122): warning C4715: 'choose_wallet': not all control paths return a value
+  Monthly_Expenses.vcxproj -> D:\git\Monthly_Expenses_Program\Monthly_Expenses\x64\Debug\Monthly_Expenses.exe
